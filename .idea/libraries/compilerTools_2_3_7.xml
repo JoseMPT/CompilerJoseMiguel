@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="compilerTools-2.3.7">
+    <CLASSES>
+      <root url="jar://D:/Librerías/librerias/compilerTools-2.3.7.jar!/" />
+      <root url="jar://D:/Librerías/librerias/flatlaf-2.2.jar!/" />
+      <root url="jar://D:/Librerías/librerias/jflex-full-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
