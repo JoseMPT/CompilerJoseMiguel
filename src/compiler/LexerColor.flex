@@ -1,4 +1,4 @@
-package analizer;
+package compiler;
 import compilerTools.TextColor;
 import java.awt.Color;
 
